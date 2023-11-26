@@ -1,0 +1,16 @@
+body {
+    font-family: cursive;
+    background-color: rgb(132, 137, 143);
+}
+
+
+h2 {
+    text-align: center;
+    color: rgb(236, 21, 21);
+}
+
+h3 {
+
+    text-align: right;
+    vertical-align: text-bottom;
+}
